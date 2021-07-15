@@ -6,7 +6,7 @@ This portfolio is built with **Next.js** and a library called [Nextra](https://n
 - Generates an RSS feed based on your posts
 - A beautiful theme included out of the box
 - Easily categorize posts with tags
-- Fast, optimized web font loading
+- Fast, optimized web font loading 
 
 ## Configuration
 
